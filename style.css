@@ -1,0 +1,13 @@
+div#list_towns
+{
+	background-color: lightblue;
+	width: 800px;
+	border: black 1px solid;
+	padding: 20px;
+	line-height: 30px;
+}
+
+div#form
+{
+	margin: 20px;
+}
